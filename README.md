@@ -1,4 +1,4 @@
-# 📚 Book Catalog API
+#  Book Catalog API
 
 ## Project Overview
 
